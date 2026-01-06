@@ -9,7 +9,6 @@ The **Online Pet Store Management System** is a web-based application developed 
 - User registration and login with role-based access (Adopter, Volunteer, Admin)
 - Registration and management of rescued pets
 - Adoption request submission and approval workflow
-- Medical and vaccination record tracking
 - Admin dashboard for managing users, pets, and adoption requests
 - Responsive and user-friendly interface
 
@@ -31,7 +30,6 @@ The **Online Pet Store Management System** is a web-based application developed 
 
 ### Tools
 - Visual Studio Code
-- ESLint
 - Git & GitHub
 - Web Browser (Chrome / Edge)
 
